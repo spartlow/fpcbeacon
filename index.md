@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 classes: wide
 title: You Are Welcome Here
 header: 
