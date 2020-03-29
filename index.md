@@ -13,6 +13,8 @@ header:
 ## COVID-19 Update
 All in-person gatherings are currently suspended. See our Facebook page for the latest information.
 
+![CDC/ Alissa Eckert, MS; Dan Higgins, MAM / Public domain](/images/478px-SARS-CoV-2_without_background.png)  <!-- .element width="200px" -->
+
 ## Upcoming Events
 
 Stay up-to-date on what's happening at First Presbyterian by checking out our Facebook page!
