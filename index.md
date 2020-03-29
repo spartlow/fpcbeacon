@@ -1,13 +1,16 @@
 ---
 layout: single
 classes: wide
-header: /images/banner-home-clouds-title6.jpg
+title: You Are Welcome Here
+header: 
+  overlay_image: /images/banner-home-clouds-title6.jpg
+  actions:
+    - label: "Last week's sermon"
+      url: "https://soundcloud.com/ben-larson-wolbrink"
 ---
 
-# You Are Welcome Here
 
 ## COVID-19 Update
-
 All in-person gatherings are currently suspended. See our Facebook page for the latest information.
 
 ## Upcoming Events
