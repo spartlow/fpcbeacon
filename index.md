@@ -1,6 +1,7 @@
 ---
 layout: single
-class: wide
+classes: wide
+header: /images/banner-home-clouds-title6.jpg
 ---
 
 # You Are Welcome Here
