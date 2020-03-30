@@ -7,6 +7,8 @@ header:
   actions:
     - label: "Last week's sermon"
       url: "https://soundcloud.com/ben-larson-wolbrink"
+    - label: "60 second sermon"
+      url: "https://vimeo.com/user14520947"
 ---
 
 
