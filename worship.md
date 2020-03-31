@@ -1,14 +1,9 @@
 ---
 layout: single
 classes: wide
-title: You Are Welcome Here
+title: Worship
 header: 
-  overlay_image: /images/banner_home_clouds_title6.jpg
-  actions:
-    - label: "Last week's sermon"
-      url: "https://soundcloud.com/ben-larson-wolbrink"
-    - label: "60 second sermon"
-      url: "https://vimeo.com/user14520947"
+  overlay_image: /images/banners/banner_sign.jpg
 ---
 
 # JOIN US 10AM SUNDAY MORNING
