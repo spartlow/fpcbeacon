@@ -24,3 +24,11 @@ exclude:
   - Gemfile.lock
   - build-in-docker.sh
   - README.md
+footer:
+  links:
+    - label: "50 Liberty Street Beacon NY"
+      url: "https://maps.google.com/maps?ll=41.502589,-73.960129&z=16&t=m&hl=en&gl=US&mapclient=embed&cid=11269456934926098748"
+    - label: "845-831-5322"
+      url: "tel:845-831-5322"
+    - label: "office@beaconpresbychurch.com"
+      url: "mailto:office@beaconpresbychurch.com"
