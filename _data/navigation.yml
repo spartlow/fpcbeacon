@@ -1,7 +1,7 @@
 main:
   - title: "Worship"
-    url: /worship/
+    url: /worship
   - title: "Contact"
-    url: /contact/
+    url: /contact
   - title: "Donate"
-    url: /donate/
+    url: /donate
