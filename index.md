@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 classes: wide
 title: You Are Welcome Here
 header: 
