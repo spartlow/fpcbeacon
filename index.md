@@ -3,7 +3,7 @@ layout: splash
 classes: wide
 title: You Are Welcome Here
 header: 
-  overlay_image: /images/banner_home_clouds_title6.jpg
+  overlay_image: /images/banners/banner_clouds.jpg
   actions:
     - label: "Last week's sermon"
       url: "https://soundcloud.com/ben-larson-wolbrink"
