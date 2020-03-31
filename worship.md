@@ -2,6 +2,7 @@
 layout: single
 classes: wide
 title: Worship
+permalink: /worship
 header: 
   overlay_image: /images/banners/banner_sign.jpg
 ---
