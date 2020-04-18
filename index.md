@@ -11,7 +11,7 @@ header:
       url: "https://vimeo.com/user14520947"
 ---
 
-<div class="page__hero--overlay">
+<div class="page__hero--overlay" markdown="1">
 
 ## Online Worship
 Our ministry is active online at our Facebook page and YouTube channel.
