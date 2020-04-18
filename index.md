@@ -11,11 +11,14 @@ header:
       url: "https://vimeo.com/user14520947"
 ---
 
+<div class="page__hero--overlay">
 
-## COVID-19 Update
-All in-person gatherings are currently suspended. See our Facebook page for the latest information.
+## Online Worship
+Our ministry is active online at our Facebook page and YouTube channel.
 
-![CDC/ Alissa Eckert, MS; Dan Higgins, MAM / Public domain](/images/478px-SARS-CoV-2_without_background.png){: width="200px"}
+![Coffee and Church](/images/Coffee_and_church.jpg){: width="200px"}
+
+</div>
 
 ## Upcoming Events
 
